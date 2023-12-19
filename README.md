@@ -30,12 +30,13 @@ Please refer to the `\demo` folder, for more demonstrations, such as *Work on Ar
 ## Paper and Citation
 If you think this repository is helpful, please cite our paper [Improving the Generalizability of Trajectory Prediction Models with Frenet-Based Domain Normalization](https://arxiv.org/abs/2305.17965).
 ```
-@misc{ye2023improving,
-      title={Improving the Generalizability of Trajectory Prediction Models with Frenet-Based Domain Normalization}, 
-      author={Luyao Ye and Zikang Zhou and Jianping Wang},
-      year={2023},
-      eprint={2305.17965},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}
+@INPROCEEDINGS{10160788,
+  author={Ye, Luyao and Zhou, Zikang and Wang, Jianping},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Improving the Generalizability of Trajectory Prediction Models with Frenét-Based Domain Normalization}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={11562-11568},
+  doi={10.1109/ICRA48891.2023.10160788}}
 ```
