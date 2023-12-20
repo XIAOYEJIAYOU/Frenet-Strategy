@@ -1,5 +1,5 @@
-# Frenet
-This repository provides a suite to transform coordinates from the **Cartesian** to the **Frenet** frame. Besides the basic transformation, we also provide complete extensions for the Argoverse dataset.
+# Improving the Generalizability of Trajectory Prediction Models with Frenét-Based Domain Normalization
+This repository provides a suite to transform coordinates from the **Cartesian** to the **Frenét** frame. Besides the basic transformation, we also provide complete extensions for the Argoverse dataset.
 
 ## Dependency
 For basic usage, you only need `numpy` in your Python environment, and `matplotlib` if you require visualization functions.
